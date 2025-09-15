@@ -7,7 +7,7 @@ For convenience, the final cleaned dataset (`cleaned_titanic.csv`) and my comple
 **Goal:** Demonstrate end-to-end data work with SQL cleaning/prep and Excel pivot analysis on the classic Titanic dataset—no machine learning.
 
 ## Project Flow
-1. Download data from Kaggle (see `data/README.md`).
+1. Download data from Kaggle (you will really just download the zip of the repo for the folder inside).
 2. Load into PostgreSQL (`sql/01_create_table.sql`, `sql/02_import_data.sql`).
 3. Clean and prep in SQL (`sql/03_cleaning.sql`).
 4. Export to CSV and analyze with Excel/Google Sheets (pivots + charts).
